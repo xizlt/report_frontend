@@ -1,3 +1,6 @@
-Stack:
-react
-primeReact
+**Stack:**
+* React
+* PrimeReact
+* JS
+
+*\* Поздний проект. Требует пересмотра некоторых вещей.*
